@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\oops Demo\LargestmongThree\bin\Debug\net6.0\LargestmongThree.exe
+C:\Users\Nirav Raj\Desktop\oops Demo\LargestmongThree\bin\Debug\net6.0\LargestmongThree.deps.json
+C:\Users\Nirav Raj\Desktop\oops Demo\LargestmongThree\bin\Debug\net6.0\LargestmongThree.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\oops Demo\LargestmongThree\bin\Debug\net6.0\LargestmongThree.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\LargestmongThree\bin\Debug\net6.0\LargestmongThree.pdb
+C:\Users\Nirav Raj\Desktop\oops Demo\LargestmongThree\obj\Debug\net6.0\LargestmongThree.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\LargestmongThree\obj\Debug\net6.0\LargestmongThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\oops Demo\LargestmongThree\obj\Debug\net6.0\LargestmongThree.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\LargestmongThree\obj\Debug\net6.0\LargestmongThree.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\oops Demo\LargestmongThree\obj\Debug\net6.0\LargestmongThree.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\LargestmongThree\obj\Debug\net6.0\LargestmongThree.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\LargestmongThree\obj\Debug\net6.0\refint\LargestmongThree.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\LargestmongThree\obj\Debug\net6.0\LargestmongThree.pdb
+C:\Users\Nirav Raj\Desktop\oops Demo\LargestmongThree\obj\Debug\net6.0\LargestmongThree.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\LargestmongThree\obj\Debug\net6.0\ref\LargestmongThree.dll

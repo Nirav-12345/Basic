@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\oops Demo\Harmonic Term\bin\Debug\net6.0\Harmonic Term.exe
+C:\Users\Nirav Raj\Desktop\oops Demo\Harmonic Term\bin\Debug\net6.0\Harmonic Term.deps.json
+C:\Users\Nirav Raj\Desktop\oops Demo\Harmonic Term\bin\Debug\net6.0\Harmonic Term.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\oops Demo\Harmonic Term\bin\Debug\net6.0\Harmonic Term.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\Harmonic Term\bin\Debug\net6.0\Harmonic Term.pdb
+C:\Users\Nirav Raj\Desktop\oops Demo\Harmonic Term\obj\Debug\net6.0\Harmonic Term.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\Harmonic Term\obj\Debug\net6.0\Harmonic Term.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\oops Demo\Harmonic Term\obj\Debug\net6.0\Harmonic Term.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\Harmonic Term\obj\Debug\net6.0\Harmonic Term.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\oops Demo\Harmonic Term\obj\Debug\net6.0\Harmonic Term.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\Harmonic Term\obj\Debug\net6.0\Harmonic Term.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\Harmonic Term\obj\Debug\net6.0\refint\Harmonic Term.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\Harmonic Term\obj\Debug\net6.0\Harmonic Term.pdb
+C:\Users\Nirav Raj\Desktop\oops Demo\Harmonic Term\obj\Debug\net6.0\Harmonic Term.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\Harmonic Term\obj\Debug\net6.0\ref\Harmonic Term.dll

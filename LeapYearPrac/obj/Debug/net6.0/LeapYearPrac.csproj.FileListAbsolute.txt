@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\oops Demo\LeapYearPrac\bin\Debug\net6.0\LeapYearPrac.exe
+C:\Users\Nirav Raj\Desktop\oops Demo\LeapYearPrac\bin\Debug\net6.0\LeapYearPrac.deps.json
+C:\Users\Nirav Raj\Desktop\oops Demo\LeapYearPrac\bin\Debug\net6.0\LeapYearPrac.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\oops Demo\LeapYearPrac\bin\Debug\net6.0\LeapYearPrac.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\LeapYearPrac\bin\Debug\net6.0\LeapYearPrac.pdb
+C:\Users\Nirav Raj\Desktop\oops Demo\LeapYearPrac\obj\Debug\net6.0\LeapYearPrac.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\LeapYearPrac\obj\Debug\net6.0\LeapYearPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\oops Demo\LeapYearPrac\obj\Debug\net6.0\LeapYearPrac.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\LeapYearPrac\obj\Debug\net6.0\LeapYearPrac.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\oops Demo\LeapYearPrac\obj\Debug\net6.0\LeapYearPrac.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\LeapYearPrac\obj\Debug\net6.0\LeapYearPrac.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\LeapYearPrac\obj\Debug\net6.0\refint\LeapYearPrac.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\LeapYearPrac\obj\Debug\net6.0\LeapYearPrac.pdb
+C:\Users\Nirav Raj\Desktop\oops Demo\LeapYearPrac\obj\Debug\net6.0\LeapYearPrac.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\LeapYearPrac\obj\Debug\net6.0\ref\LeapYearPrac.dll

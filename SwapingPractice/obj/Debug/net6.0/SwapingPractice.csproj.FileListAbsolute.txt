@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\oops Demo\SwapingPractice\bin\Debug\net6.0\SwapingPractice.exe
+C:\Users\Nirav Raj\Desktop\oops Demo\SwapingPractice\bin\Debug\net6.0\SwapingPractice.deps.json
+C:\Users\Nirav Raj\Desktop\oops Demo\SwapingPractice\bin\Debug\net6.0\SwapingPractice.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\oops Demo\SwapingPractice\bin\Debug\net6.0\SwapingPractice.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\SwapingPractice\bin\Debug\net6.0\SwapingPractice.pdb
+C:\Users\Nirav Raj\Desktop\oops Demo\SwapingPractice\obj\Debug\net6.0\SwapingPractice.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\SwapingPractice\obj\Debug\net6.0\SwapingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\oops Demo\SwapingPractice\obj\Debug\net6.0\SwapingPractice.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\SwapingPractice\obj\Debug\net6.0\SwapingPractice.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\oops Demo\SwapingPractice\obj\Debug\net6.0\SwapingPractice.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\SwapingPractice\obj\Debug\net6.0\SwapingPractice.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\SwapingPractice\obj\Debug\net6.0\refint\SwapingPractice.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\SwapingPractice\obj\Debug\net6.0\SwapingPractice.pdb
+C:\Users\Nirav Raj\Desktop\oops Demo\SwapingPractice\obj\Debug\net6.0\SwapingPractice.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\SwapingPractice\obj\Debug\net6.0\ref\SwapingPractice.dll

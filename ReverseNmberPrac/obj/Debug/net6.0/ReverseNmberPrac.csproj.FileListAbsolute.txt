@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\oops Demo\ReverseNmberPrac\bin\Debug\net6.0\ReverseNmberPrac.exe
+C:\Users\Nirav Raj\Desktop\oops Demo\ReverseNmberPrac\bin\Debug\net6.0\ReverseNmberPrac.deps.json
+C:\Users\Nirav Raj\Desktop\oops Demo\ReverseNmberPrac\bin\Debug\net6.0\ReverseNmberPrac.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\oops Demo\ReverseNmberPrac\bin\Debug\net6.0\ReverseNmberPrac.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\ReverseNmberPrac\bin\Debug\net6.0\ReverseNmberPrac.pdb
+C:\Users\Nirav Raj\Desktop\oops Demo\ReverseNmberPrac\obj\Debug\net6.0\ReverseNmberPrac.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\ReverseNmberPrac\obj\Debug\net6.0\ReverseNmberPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\oops Demo\ReverseNmberPrac\obj\Debug\net6.0\ReverseNmberPrac.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\ReverseNmberPrac\obj\Debug\net6.0\ReverseNmberPrac.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\oops Demo\ReverseNmberPrac\obj\Debug\net6.0\ReverseNmberPrac.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\ReverseNmberPrac\obj\Debug\net6.0\ReverseNmberPrac.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\ReverseNmberPrac\obj\Debug\net6.0\refint\ReverseNmberPrac.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\ReverseNmberPrac\obj\Debug\net6.0\ReverseNmberPrac.pdb
+C:\Users\Nirav Raj\Desktop\oops Demo\ReverseNmberPrac\obj\Debug\net6.0\ReverseNmberPrac.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\ReverseNmberPrac\obj\Debug\net6.0\ref\ReverseNmberPrac.dll

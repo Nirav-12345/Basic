@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\oops Demo\QuitontDivisorPrac\bin\Debug\net6.0\QuitontDivisorPrac.exe
+C:\Users\Nirav Raj\Desktop\oops Demo\QuitontDivisorPrac\bin\Debug\net6.0\QuitontDivisorPrac.deps.json
+C:\Users\Nirav Raj\Desktop\oops Demo\QuitontDivisorPrac\bin\Debug\net6.0\QuitontDivisorPrac.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\oops Demo\QuitontDivisorPrac\bin\Debug\net6.0\QuitontDivisorPrac.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\QuitontDivisorPrac\bin\Debug\net6.0\QuitontDivisorPrac.pdb
+C:\Users\Nirav Raj\Desktop\oops Demo\QuitontDivisorPrac\obj\Debug\net6.0\QuitontDivisorPrac.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\QuitontDivisorPrac\obj\Debug\net6.0\QuitontDivisorPrac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\oops Demo\QuitontDivisorPrac\obj\Debug\net6.0\QuitontDivisorPrac.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\QuitontDivisorPrac\obj\Debug\net6.0\QuitontDivisorPrac.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\oops Demo\QuitontDivisorPrac\obj\Debug\net6.0\QuitontDivisorPrac.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\QuitontDivisorPrac\obj\Debug\net6.0\QuitontDivisorPrac.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\QuitontDivisorPrac\obj\Debug\net6.0\refint\QuitontDivisorPrac.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\QuitontDivisorPrac\obj\Debug\net6.0\QuitontDivisorPrac.pdb
+C:\Users\Nirav Raj\Desktop\oops Demo\QuitontDivisorPrac\obj\Debug\net6.0\QuitontDivisorPrac.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\QuitontDivisorPrac\obj\Debug\net6.0\ref\QuitontDivisorPrac.dll

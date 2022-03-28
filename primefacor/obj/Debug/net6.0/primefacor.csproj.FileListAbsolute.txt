@@ -1,0 +1,15 @@
+C:\Users\Nirav Raj\Desktop\oops Demo\primefacor\bin\Debug\net6.0\primefacor.exe
+C:\Users\Nirav Raj\Desktop\oops Demo\primefacor\bin\Debug\net6.0\primefacor.deps.json
+C:\Users\Nirav Raj\Desktop\oops Demo\primefacor\bin\Debug\net6.0\primefacor.runtimeconfig.json
+C:\Users\Nirav Raj\Desktop\oops Demo\primefacor\bin\Debug\net6.0\primefacor.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\primefacor\bin\Debug\net6.0\primefacor.pdb
+C:\Users\Nirav Raj\Desktop\oops Demo\primefacor\obj\Debug\net6.0\primefacor.csproj.AssemblyReference.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\primefacor\obj\Debug\net6.0\primefacor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nirav Raj\Desktop\oops Demo\primefacor\obj\Debug\net6.0\primefacor.AssemblyInfoInputs.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\primefacor\obj\Debug\net6.0\primefacor.AssemblyInfo.cs
+C:\Users\Nirav Raj\Desktop\oops Demo\primefacor\obj\Debug\net6.0\primefacor.csproj.CoreCompileInputs.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\primefacor\obj\Debug\net6.0\primefacor.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\primefacor\obj\Debug\net6.0\refint\primefacor.dll
+C:\Users\Nirav Raj\Desktop\oops Demo\primefacor\obj\Debug\net6.0\primefacor.pdb
+C:\Users\Nirav Raj\Desktop\oops Demo\primefacor\obj\Debug\net6.0\primefacor.genruntimeconfig.cache
+C:\Users\Nirav Raj\Desktop\oops Demo\primefacor\obj\Debug\net6.0\ref\primefacor.dll
